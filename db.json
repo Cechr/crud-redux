@@ -3,31 +3,31 @@
     {
       "id": 1,
       "nombreCompleto": "Carlos Chan",
-      "NumTelefono": "31111"
+      "numTelefono": "9932153018"
     },
     {
       "id": 2,
       "nombreCompleto": "Giovanni Patiño",
-      "NumTelefono": "546489"
+      "numTelefono": 546489
     },
     {
       "nombreCompleto": "Jorge Cruz",
-      "NumTelefono": "5646548",
+      "numTelefono": 5646548,
       "id": 3
     },
     {
       "nombreCompleto": "Miguel Cruz",
-      "NumTelefono": "21321",
+      "numTelefono": 21321,
       "id": 4
     },
     {
       "nombreCompleto": "Carlos Caamal",
-      "NumTelefono": "5444564",
+      "numTelefono": 5444564,
       "id": 5
     },
     {
       "nombreCompleto": "Javier Hernández",
-      "numTelefono": 14,
+      "numTelefono": 13,
       "id": 6
     }
   ]
